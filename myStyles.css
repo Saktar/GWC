@@ -1,0 +1,28 @@
+/* /webPage style sheet */
+
+h1 {
+  color: #3399ff;
+  /* font-size: 12px; */
+  /* makes it smaller  */
+  font-family: 'Cinzel Decorative';
+}
+#Fun {
+  color: blue;
+}
+
+.green{
+  color: blue;
+}
+
+ul{
+  list-style-type: none;
+}
+
+li{
+  display: inline;
+  margin-right: 20px;
+}
+
+body {
+  background-color: #ccffeb;
+}
